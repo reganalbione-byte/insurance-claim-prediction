@@ -1,0 +1,19 @@
+# Insurance Claim Prediction - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Optional: For advanced time series (if needed)
+# statsmodels>=0.13.0
+# prophet>=1.1.0
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
+
+# Optional: For visualization
+# matplotlib>=3.5.0
+# seaborn>=0.12.0
